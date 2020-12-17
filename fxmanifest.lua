@@ -1,5 +1,5 @@
 fx_version 'adamant'
 game {'gta5'}
 
-client_script "c/cl_ruohonleikkaaja.lua"
-server_script "s/sv_ruohonleikkaaja.lua"
+client_script "cl_ruohonleikkaaja.lua"
+server_script "sv_ruohonleikkaaja.lua"
